@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Белый ящик 2", "Белый ящик 2\Белый ящик 2.csproj", "{DA8C4254-AFD4-4F86-8CE5-E5ABE9B85772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8C4254-AFD4-4F86-8CE5-E5ABE9B85772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8C4254-AFD4-4F86-8CE5-E5ABE9B85772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8C4254-AFD4-4F86-8CE5-E5ABE9B85772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8C4254-AFD4-4F86-8CE5-E5ABE9B85772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14B16E26-BFCD-4A8D-A96E-2A0AD9F04C3F}
+	EndGlobalSection
+EndGlobal
